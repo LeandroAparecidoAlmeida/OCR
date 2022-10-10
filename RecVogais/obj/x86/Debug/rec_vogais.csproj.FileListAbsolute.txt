@@ -1,0 +1,11 @@
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.csprojResolveAssemblyReference.cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.csproj.GenerateResource.Cache
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\bin\Debug\rec_vogais.exe.config
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\bin\Debug\rec_vogais.exe
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\bin\Debug\rec_vogais.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\bin\Debug\RNA.dll
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\bin\Debug\RNA.pdb
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.MainForm.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.Properties.Resources.resources
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.exe
+D:\2. DESENVOLVIMENTO DE SOFTWARE\OCR\paint clone\obj\x86\Debug\rec_vogais.pdb

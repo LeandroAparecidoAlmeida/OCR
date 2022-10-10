@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecVogais", "RecVogais\RecVogais.csproj", "{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Release|Any CPU.ActiveCfg = Release|x64
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{99BE8995-B1E0-40CF-B83E-D63F3EAF3031}.Release|Mixed Platforms.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
